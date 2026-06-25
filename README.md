@@ -1,7 +1,8 @@
 
 # ⚔️ Codeforces Solutions
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/518e8a2e-7b0c-476e-91de-f1f7de89d5f0" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7b30cedc-6be6-4764-906f-8562997dd671" />
+
 
 
 Welcome to my Codeforces repository! 🚀
