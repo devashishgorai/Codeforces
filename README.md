@@ -6,35 +6,76 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 7 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
-- [math](#math) (1)
+- [*special](#special) (1)
+- [brute force](#brute-force) (2)
+- [games](#games) (1)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (2)
+- [math](#math) (3)
 - [number theory](#number-theory) (1)
+- [schedules](#schedules) (1)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.cpp) |
+| 2182B | [New Year Cake](https://codeforces.com/contest/2182/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/2182/B%20-%20New%20Year%20Cake/solution.cpp) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
+| 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/344/A%20-%20Magnets/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.cpp) |
+| 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.cpp) |
+
+### schedules
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
 
 ---
 
