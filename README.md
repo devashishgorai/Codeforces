@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 8 |
+| 8 | 8 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
 - [games](#games) (1)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (2)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
@@ -47,6 +47,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 1807B | [Grab the Candies](https://codeforces.com/contest/1807/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/1807/B%20-%20Grab%20the%20Candies/solution.cpp) |
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
 
