@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# ⚡ Codeforces Solutions
+
 
 ### 🚀 A collection of my accepted Codeforces solutions with clean C++ implementations.
 
