@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 13 |
+| 17 | 13 |
 
 ---
 
@@ -14,13 +14,13 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (1)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (7)
+- [greedy](#greedy) (8)
 - [implementation](#implementation) (5)
-- [math](#math) (7)
+- [math](#math) (8)
 - [number theory](#number-theory) (2)
 - [schedules](#schedules) (1)
 - [sortings](#sortings) (1)
@@ -48,6 +48,7 @@
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.cpp) |
 | 1992A | [Only Pluses](https://codeforces.com/contest/1992/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/1992/A%20-%20Only%20Pluses/solution.cpp) |
 | 2182B | [New Year Cake](https://codeforces.com/contest/2182/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/2182/B%20-%20New%20Year%20Cake/solution.cpp) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
 
 ### constructive algorithms
 
@@ -74,6 +75,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 1807B | [Grab the Candies](https://codeforces.com/contest/1807/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/1807/B%20-%20Grab%20the%20Candies/solution.cpp) |
 | 1992A | [Only Pluses](https://codeforces.com/contest/1992/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/1992/A%20-%20Only%20Pluses/solution.cpp) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
@@ -96,6 +98,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 1520B | [Ordinary Numbers](https://codeforces.com/contest/1520/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/1520/B%20-%20Ordinary%20Numbers/solution.cpp) |
 | 1992A | [Only Pluses](https://codeforces.com/contest/1992/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/1992/A%20-%20Only%20Pluses/solution.cpp) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
 | 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.cpp) |
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
