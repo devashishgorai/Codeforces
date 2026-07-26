@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 13 |
+| 19 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
@@ -39,6 +39,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
+| 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/devashishgorai/Codeforces/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.cpp) |
 
 ### brute force
 
